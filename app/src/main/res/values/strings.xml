@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+    <string name="pastaIngredients" >Pasta
+    \nCream Cheese
+    \nParmesan Cheese
+    \nOlive oil
+    \nGarlic
+        \nSalt Pepper</string>
+    <string name="pastaDeck">Cook your pasta until al dente
+        \nSaute` garlic in olive oil until fragrant
+        \Add cream cheese, pasta cooking water, parmesan, and stir well
+        \nDrain and add pasta to the skillet
+        \nToss until well combined, adding some pasta water if needed
+    </string>
+
+    <string name="maggiIngredients">Maggi Noodles
+     \nWater
+        \nMaggi Masala
+    </string>
+    <string name="maggiDesc">Add one and half cup of water
+        Add maggi noodles and boil it
+        Add the maggi masala on to it
+        \nWait for 2 mins
+        \nMaggi is ready!
+    </string>
+
+    <string name="cakeIngredients">Maggi Noodles
+        \nWater
+        \nMaggi Masala </string>
+    <string name="cakeDesc">Add one and half cup of water
+        Add maggi noodles and boil it
+        Add the maggi masala on to it
+        \nWait for 2 mins
+        \nMaggi is ready!</string>
+    <string name="pancakeIngredients">Maggi Noodles
+     \nWater
+        \nMaggi Masala
+    </string>
+    <string name="pancakeDesc">Add one and half cup of water
+        Add maggi noodles and boil it
+        Add the maggi masala on to it
+        \nWait for 2 mins
+        \nMaggi is ready!
+    </string>
+    <string name="pizzaIngredients">Maggi Noodles
+     \nWater
+        \nMaggi Masala
+    </string>
+    <string name="pizzaDesc">Add one and half cup of water
+        Add maggi noodles and boil it
+        Add the maggi masala on to it
+        \nWait for 2 mins
+        \nMaggi is ready!
+    </string>
+    <string name="burgerIngredients">Maggi Noodles
+     \nWater
+        \nMaggi Masala
+    </string>
+    <string name="burgerDesc">Add one and half cup of water
+        Add maggi noodles and boil it
+        Add the maggi masala on to it
+        \nWait for 2 mins
+        \nMaggi is ready!
+    </string>
+    <string name="friesIngredients">Maggi Noodles
+     \nWater
+        \nMaggi Masala
+    </string>
+    <string name="friesDesc">Add one and half cup of water
+        Add maggi noodles and boil it
+        Add the maggi masala on to it
+        \nWait for 2 mins
+        \nMaggi is ready!
+    </string>
+
+</resources>
